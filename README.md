@@ -1,4 +1,4 @@
-**POsition Salaries Data Analysis**
+**Position Salaries Data Analysis**
 
 This project analyses relationship between job position,expirience levels,and salaries using python.
 The goal is to understand growth across different carrier levels and visualise compensation trends.
